@@ -1,6 +1,6 @@
 ### 💻 [Carson][discord] 💻
 
-*Hi, I'm Carson, a Newer Developer located in Michigan, USA. I have knowledge in FiveM Livery Design, FiveM EUP Design, and many more projects. I Opened a Developement Server Mainly focusing on FiveM Assets in The Begining of 2022. Feel free to reach out to me via [Discord][discord] for custom commissions and more!*
+*Hi, I'm Carson, a Developer located in Michigan, USA. I have knowledge in FiveM Livery Design, FiveM Scripts, and many more projects. I opened a Development Server, mainly focusing on FiveM Assets, at the beginning of 2022. Feel free to reach out to me via [Discord][discord] for custom commissions and more!*
 
 <b>Feel Free to show some ❤️ by checking out the Development server!</b>
 
