@@ -9,12 +9,12 @@
 ## 🔧 Technologies & Tools
 
 ![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=vscode&logoColor=white&color=9B9B9B)
-![](https://img.shields.io/badge/Tools-Spotify-informational?style=flat&logo=spotify&logoColor=white&color=9B9B9B)
+![](https://img.shields.io/badge/Tools-AppleMusic-informational?style=flat&logo=spotify&logoColor=white&color=9B9B9B)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=github&logoColor=white&color=9B9B9B)
 
 ----
 
 [website]: https://carsons-development.tebex.io/
-[twitch]: https://www.twitch.tv/plrpcarson
+[twitch]: https://www.twitch.tv/static_carson
 [youtube]: https://www.youtube.com/channel/UCGYAXahJhagTQvjswvL8gbA
-[discord]: https://discord.gg/paradiseliferp
+[discord]: https://discord.gg/detroitmichiganrp
